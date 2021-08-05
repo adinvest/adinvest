@@ -1,5 +1,5 @@
 - 👋 My name is Petr.
-- 👀 I’m interested in ...
+- 👀 I’m interested in use technologies and business to help people.
 - 🌱 I’m currently learning HTML&CSS.
 - 📫 How to reach me? adinvest@list.ru
 
